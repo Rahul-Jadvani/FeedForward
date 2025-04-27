@@ -1,7 +1,5 @@
 # FeedForward
 
-![FeedForward](https://via.placeholder.com/800x400?text=FeedForward)
-
 ## About FeedForward
 
 FeedForward is an intelligent, scalable platform designed to connect surplus food sources with individuals and organizations in need, while incentivizing participation through rewards and reputation systems.
